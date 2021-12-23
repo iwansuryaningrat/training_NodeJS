@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iwansuryaningrat/training_NodeJS/issues"
   },
-  "homepage": "https://github.com/iwansuryaningrat/training_NodeJS#readme"
+  "homepage": "https://github.com/iwansuryaningrat/training_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
